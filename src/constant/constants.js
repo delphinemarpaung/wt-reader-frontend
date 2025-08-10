@@ -1,2 +1,2 @@
-export const CHAPTER_NUMBER = "85";
+export const CHAPTER_NUMBER = "1";
 export const MAX_WORD_QUIZ = 5;
