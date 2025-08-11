@@ -302,7 +302,7 @@ export function Quiz() {
               <img
                 src={require("../../images/chapter" +
                   CHAPTER_NUMBER +
-                  "/" +
+                  "_files/" +
                   imgPathValue)}
                 className="w-full h-full object-cover"
               />

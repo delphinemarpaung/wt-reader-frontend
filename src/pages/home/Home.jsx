@@ -23,11 +23,11 @@ export function Home() {
             </div>
           </div>
         </div>
+        <header className="App-header">
+          <img src={logo} className="App-logo" alt="logo" />
+          <p>Welcome</p>
+        </header>
       </div>
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>Welcome</p>
-      </header>
     </div>
   );
 }

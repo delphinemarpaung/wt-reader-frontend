@@ -71,7 +71,7 @@ export function Read() {
               <img
                 src={require("../../images/chapter" +
                   CHAPTER_NUMBER +
-                  "/" +
+                  "_files/" +
                   item)}
                 alt={idx}
                 onClick={handleImageClick}

@@ -140,7 +140,7 @@ export function Practice() {
                 <img
                   src={require("../../images/chapter" +
                     CHAPTER_NUMBER +
-                    "/" +
+                    "_files/" +
                     imgPathValue)}
                 />
               ) : (
